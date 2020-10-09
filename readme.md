@@ -11,7 +11,6 @@ A collection of all our favorite sitcom :tv: show's halloween episodes.  We crea
 - [How I Met Your Mother](#how-i-met-your-mother)
 
 ## Parks and Recreation
----
 
 - Netflix
 - Peacock
@@ -24,7 +23,6 @@ A collection of all our favorite sitcom :tv: show's halloween episodes.  We crea
 - [Halloween Surprise](https://www.imdb.com/title/tt2414120/) - Season 5 | Episode 5
 
 ## The Office (US)
----
 
 - Netflix
 - Peacock
@@ -38,7 +36,7 @@ A collection of all our favorite sitcom :tv: show's halloween episodes.  We crea
 - [Here Comes Treble](https://www.imdb.com/title/tt2433396/) - Season 9 | Episode 5
 
 ## New Girl
----
+
 - Netflix
 - Amazon :dollar:
 
@@ -48,7 +46,6 @@ A collection of all our favorite sitcom :tv: show's halloween episodes.  We crea
 - [Keaton](https://www.imdb.com/title/tt3251424/) - Season 3 Episode 6
 
 ## Modern Family
----
 
 - Hulu
 - Amazon :dollar:
@@ -64,7 +61,6 @@ A collection of all our favorite sitcom :tv: show's halloween episodes.  We crea
 - [The Last Halloween](https://www.imdb.com/title/tt11022174/) - Season 11 | Episode 5
 
 ## How I Met Your Mother
----
 
 - Hulu
 - Amazon :dollar:
