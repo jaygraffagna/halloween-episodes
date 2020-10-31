@@ -12,7 +12,6 @@ A collection of all our favorite sitcom :tv: show's halloween episodes.  We crea
 
 ## Parks and Recreation
 
-- Netflix
 - Peacock
 - Amazon :dollar:
   
