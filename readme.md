@@ -30,6 +30,8 @@ A collection of all our favorite sitcom :tv: show's halloween episodes.  We crea
 ### Episodes
 
 - [Halloween](https://www.imdb.com/title/tt0664516/) - Season 2 | Episode 5
+- [Employee Transfer](https://www.imdb.com/title/tt1248749/?ref_=ttep_ep5) - Season 5 | Episode 5
+- [Koi Pond](https://www.imdb.com/title/tt1524878/?ref_=ttep_ep8) - Season 6 | Episode 8
 - [Costume Contest](https://www.imdb.com/title/tt1725594/) - Season 7 | Episode 6
 - [Spooked](https://www.imdb.com/title/tt2074990/) - Season 8 | Episode 5
 - [Here Comes Treble](https://www.imdb.com/title/tt2433396/) - Season 9 | Episode 5
